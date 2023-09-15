@@ -88,7 +88,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
     <a href="#" target="_blank"><img alt="java" src="https://img.shields.io/badge/-Java-276DC3?style=flat-square&logo=java&logoColor=white"></a>
     <a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
      <a href="#" target="_blank"><img alt="C Programming" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white"></a>
-     <a href="#" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-00599C?style=flat-square&logo=sql&logoColor=white"></a>
+     <a href="#" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-Mysql-00599C?style=flat-square&logo=mysql&logoColor=white"></a>
 
 </p>
 
