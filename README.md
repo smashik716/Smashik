@@ -83,7 +83,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 <br>
 
 <p align="center">
-    <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=github&logoColor=white"></a>
+   <!--  <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=github&logoColor=white"></a> -->
     <a href="#" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="#" target="_blank"><img alt="java" src="https://img.shields.io/badge/-Java-276DC3?style=flat-square&logo=java&logoColor=white"></a>
     <a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
@@ -192,16 +192,11 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 ### 📟 GitHub Stats:
 <br>
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=NishatTasnim01&theme=holi&show_icons=true" width="350" align="right" /></a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=NishatTasnim01&theme=holi-theme&hide_border=false" width="350" /></a>
-<br>
-</div>
-<br>
 <div align="center">
-<a href=""><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia" width="350"/></a>
-</div>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=NishatTasnim01&theme=holi&show_icons=true" width="400" align="right"/></a>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=NishatTasnim01&theme=holi-theme&hide_border=false" width="400"/></a>
+  <!-- <a href=""><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia" width="300"/></a> -->
+<br>  
 <br>
 <br>
 <div align="center">
