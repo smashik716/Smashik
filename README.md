@@ -3,6 +3,7 @@
 <p align="center" justyfi="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=-----+University+of+Asis+Pacific+-----;------+Competitive+Programmer+------;"></a>
 </p>
+<p align="justify">
 👋 Hello there! I'm Nishat Tasnim, a curious explorer of the coding cosmos 🌌. While I may not wield languages like C, C++, Java, and Python with the mastery of a seasoned pro, I thrive on the thrill of creation and innovation. 🚀
 <br>
 <br>
@@ -13,6 +14,7 @@ But here's the twist: I'm not just about codes and algorithms. My heart beats fo
 <br>
 <br>
 Got a passion for the unconventional? Let's connect and embark on a journey of creativity, exploration, and mind-bending ideas. Feel free to drop me a line at nishatt315@gmail.com 📬. Together, let's transform the ordinary into the extraordinary! 🌈🔍
+</p>
 <h2 align="left">😸 Github Stats:</h2>
 <br>
 <br>
@@ -78,30 +80,17 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
+<br>
 
-<p align="center"> 
-  &emsp; 
-  <a href="#" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a>
-  &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/python%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a>
-  &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
+<p align="center">
+    <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=github&logoColor=white"></a>
+    <a href="#" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+    <a href="#" target="_blank"><img alt="java" src="https://img.shields.io/badge/-Java-276DC3?style=flat-square&logo=java&logoColor=white"></a>
+    <a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+     <a href="#" target="_blank"><img alt="C Programming" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white"></a>
+     <a href="#" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-00599C?style=flat-square&logo=sql&logoColor=white"></a>
+
 </p>
-
 
 <!-- ### 👉 Frontend Development
 <p align="center"> 
@@ -171,12 +160,37 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 <br/>
 -->
 
+<details>
+<summary>Click here for My Status...</summary>
+
+```json
+{
+   "Proficient": ["Python", "Java", "C", "C++", "SQL"],
+   "Familiar with": ["HTML", "CSS"],
+   "Database": ["MySql","MS SQL Server"],
+   "AI framework":["Keras","Scikit-learn","PySpark","Tensorflow"],
+   "Modules & Library":["Pandas","Numpy","Scipy","Matplotlib & seaborn","Folium & foursquare api","Beautifulsoup","Selenium","etc"],
+                          
+   "Machine Learning Algorithms": ["LinearRegression","LogisticRegression","KNeighborsRegressor","SVR","DecisionTree",
+                                    "RandomForest","SVM","KNN","Naive Bayes","XGBoost", "AdaBoostClassifier","Lasso",
+                                    "K-means","DBSCAN","Model Validation","Feature Selection","Dimensionality Reduction"],
+   
+   "Deep Learning": ["CNN","LSTM","Bi-LSTM","Transfer Learning","Model optimization and quantization",
+                                    "TinyML","Pipelining","Keras sequential and functional API"]
+}
+```
+  
+</details>
+
+ 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishattasnim01&theme=github-dark&custom_title=Nishat's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+
 
 <br>
 <br>
-### 📟 GitHub Stats
+
+### 📟 GitHub Stats:
+<br>
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=NishatTasnim01&theme=holi&show_icons=true" width="350" align="right" /></a>
