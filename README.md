@@ -45,23 +45,31 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 
 
 
-## 🔥: My Competitive Programming and Research Profiles
-
+### 📢 Find me elsewhere
 <p align="center">
-  <a href="https://codeforces.com/profile/dev_smashik"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/dev.smashik"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://www.codechef.com/users/dev_smashik"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+  <a href="https://www.codechef.com/users/nishat149">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://codeforces.com/profile/21201149">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/abhishekmaira191">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.codewars.com/users/abhimaira_10">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
-<h2>Contact with me </h2>
-<p align="center">
-	<a href="mailto:dev.smashik"gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/dev-smashik"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/+8801779519100"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/smashik/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/smashik716"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/dev_smashik/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+ ### 📣 Contact With Me:
+ <br>
+ <p align="center">
+  <a href="smashik716@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/smashik"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
 </p>
 
 
@@ -79,6 +87,18 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
   &emsp;
   <a href="#" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="Python" src="https://img.shields.io/badge/python%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
 </p>
 
@@ -149,17 +169,25 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
 </p>
 <br/>
+-->
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NishatTasnim01&theme=github-dark&custom_title=Nishat's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishattasnim01&theme=github-dark&custom_title=Nishat's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
 <br>
 <br>
-## 📟 GitHub Stats
+### 📟 GitHub Stats
+
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=NishatTasnim01&theme=holi&show_icons=true" width="350" align="right" /></a>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=NishatTasnim01&theme=holi-theme&hide_border=false" width="350" /></a>
+<br>
 </div>
+<br>
+<div align="center">
+<a href=""><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia" width="350"/></a>
+</div>
+
 <br>
 <br>
 <div align="center">
