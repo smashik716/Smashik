@@ -43,7 +43,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 <br>
 <br> -->
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-smashik&theme=github-dark-dimmed&custom_title=Nishat's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 🔥: My Competitive Programming and Research Profiles
 
@@ -82,7 +82,8 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
   </a> 
 </p>
 
-### 👉 Frontend Development
+
+<!-- ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="#" target="_blank"> 
@@ -93,8 +94,10 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
 </p>
+-->
 
- ### 👉 Software & Tools
+
+<!-- ### 👉 Software & Tools
  
 <p align="center">
   &emsp;
@@ -108,9 +111,10 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
 </p>
+-->
 
- ### 👉 IDEs
- 
+
+<!--  ### 👉 IDEs
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
@@ -119,11 +123,10 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
   &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
 </p>
+-->
 
 
-
- ### 👉 Competitive Programming & Problem Solving
- 
+<!--  ### 👉 Competitive Programming & Problem Solving
 <p align="center">
   &emsp;
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
@@ -134,8 +137,10 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
   &emsp;
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
+-->
 
- ### 👉 Operating Systems
+
+<!--  ### 👉 Operating Systems
  
 <p align="center">
   &emsp;
@@ -145,11 +150,16 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 </p>
 <br/>
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NishatTasnim01&theme=github-dark&custom_title=Nishat's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+
+<br>
+<br>
 ## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xAshik&show_icons=true&theme=merko" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAshik&theme=merko" />
-</p>
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=NishatTasnim01&theme=holi&show_icons=true" width="350" align="right" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=NishatTasnim01&theme=holi-theme&hide_border=false" width="350" /></a>
+</div>
 <br>
 <br>
 <div align="center">
