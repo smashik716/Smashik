@@ -43,6 +43,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 <br>
 <br> -->
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-smashik&theme=github-dark-dimmed&custom_title=Nishat's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔥: My Competitive Programming and Research Profiles
 
@@ -118,6 +119,8 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
   &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
 </p>
+
+
 
  ### 👉 Competitive Programming & Problem Solving
  
