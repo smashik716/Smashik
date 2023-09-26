@@ -54,7 +54,7 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://codeforces.com/profile/21201149">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/smashik716/Icons/blob/main/Codeforces.svg" alt="Codeforces" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/abhishekmaira191">
@@ -62,15 +62,15 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.codewars.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/smashik716/Icons/blob/main/Kaggle.svg" alt="Kaggle" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
  ### 📣 Contact With Me:
  <br>
  <p align="center">
-  <a href="smashik716@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/smashik"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="smashik716@gmail.com"><img src="https://github.com/smashik716/Icons/blob/main/Gmail.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/smashik"><img src="https://github.com/smashik716/Icons/blob/main/Linked%20in.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   
 </p>
 
@@ -84,11 +84,11 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 
 <p align="center">
    <!--  <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=github&logoColor=white"></a> -->
-    <a href="#" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="#" target="_blank"><img alt="java" src="https://img.shields.io/badge/-Java-276DC3?style=flat-square&logo=java&logoColor=white"></a>
-    <a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-     <a href="#" target="_blank"><img alt="C Programming" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white"></a>
-     <a href="#" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-Mysql-00599C?style=flat-square&logo=mysql&logoColor=white"></a>
+    <a href="#" target="_blank"><img alt="python" src="https://github.com/smashik716/Icons/blob/main/Python.svg?style=flat-square&logo=Python&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+    <a href="#" target="_blank"><img alt="java" src="https://github.com/smashik716/Icons/blob/main/Java.svg?style=flat-square&logo=java&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+    <a href="#" target="_blank"><img alt="C++" src="https://github.com/smashik716/Icons/blob/main/C%2B%2B%20Programming.svg?style=flat-square&logo=C%2B%2B&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+     <a href="#" target="_blank"><img alt="C Programming" src="https://github.com/smashik716/Icons/blob/main/C%20Programming.svg?style=flat-square&logo=C&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
+     <a href="#" target="_blank"><img alt="SQL" src="https://github.com/smashik716/Icons/blob/main/SQL.svg?style=flat-square&logo=mysql&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
 
 </p>
 
