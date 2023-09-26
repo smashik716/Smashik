@@ -193,8 +193,9 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 <br>
 
 <div align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=NishatTasnim01&theme=holi-theme&hide_border=false" width="400"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=NishatTasnim01&theme=holi&show_icons=true" width="400" align="right"/></a>
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=NishatTasnim01&theme=holi-theme&hide_border=false" width="400"/></a>
+  
   <!-- <a href=""><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia" width="300"/></a> -->
 <br>  
 <br>
