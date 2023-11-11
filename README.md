@@ -57,11 +57,11 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
     <img src="https://github.com/smashik716/Icons/blob/main/Codeforces.svg" alt="Codeforces" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/abhishekmaira191">
+  <a href="https://www.hackerrank.com/profile/nishatt315">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.codewars.com/users/abhimaira_10">
+  <a href="https://www.kaggle.com/nishatttasnim">
     <img src="https://github.com/smashik716/Icons/blob/main/Kaggle.svg" alt="Kaggle" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
@@ -69,8 +69,8 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
  ### 📣 Contact With Me:
  <br>
  <p align="center">
-  <a href="smashik716@gmail.com"><img src="https://github.com/smashik716/Icons/blob/main/Gmail.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/smashik"><img src="https://github.com/smashik716/Icons/blob/main/Linked%20in.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="nishatt315@gmail.com"><img src="https://github.com/smashik716/Icons/blob/main/Gmail.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nishatt-tasnim-065a79279"><img src="https://github.com/smashik716/Icons/blob/main/Linked%20in.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   
 </p>
 
@@ -193,12 +193,12 @@ Got a passion for the unconventional? Let's connect and embark on a journey of c
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NishatTasnim01&theme=dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
-<div align="center">
+<div align="center">&nbsp;&nbsp;
   
  <!-- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=NishatTasnim01&theme=dark&hide_border=false" width="400"/></a> -->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=NishatTasnim01&theme=holi&show_icons=true" width="400" align="right"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=NishatTasnim01&theme=holi&show_icons=true" width="400" align="right"/></a>&nbsp;&nbsp;
   
-  <!-- <a href=""><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia" width="300"/></a> -->
+  <a href=""><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NishatTasnim01&layout=compact&langs_count=8&theme=algolia" width="300"/></a> 
 <br>  
 <br>
 <br>
